@@ -1,0 +1,28 @@
+UNIVERSIDAD PANAMERICANA
+REPORTE ACADÉMICO - SISTEMA LINQ
+============================================================
+Fecha de generación: 3/11/2025 01:07:26
+Total estudiantes: 15
+
+1. RESUMEN POR CURSO:
+   - Matemáticas:
+     Promedio: 79.4 | Aprobados: 4/5
+   - Programación:
+     Promedio: 76.8 | Aprobados: 4/6
+   - Bases de Datos:
+     Promedio: 85.2 | Aprobados: 4/4
+
+2. TOP 5 ESTUDIANTES GLOBAL:
+   1. Patricia Silva - Programación: 96
+   2. Sofía Hernández - Programación: 95
+   3. Carlos López - Matemáticas: 92
+   4. Elena Castro - Bases de Datos: 91
+   5. Laura Martínez - Programación: 88
+
+3. DISTRIBUCIÓN POR INTERVALOS:
+   - 80-100 (Excelente): 8 estudiantes
+   - 60-79 (Bueno): 6 estudiantes
+   - 0-59 (Necesita mejorar): 1 estudiantes
+
+============================================================
+FIN DEL REPORTE

@@ -1,0 +1,14 @@
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\bin\Debug\net8.0\Ejercicio #3 LinQ.exe
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\bin\Debug\net8.0\Ejercicio #3 LinQ.deps.json
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\bin\Debug\net8.0\Ejercicio #3 LinQ.runtimeconfig.json
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\bin\Debug\net8.0\Ejercicio #3 LinQ.dll
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\bin\Debug\net8.0\Ejercicio #3 LinQ.pdb
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\obj\Debug\net8.0\Ejercicio #3 LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\obj\Debug\net8.0\Ejercicio #3 LinQ.AssemblyInfoInputs.cache
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\obj\Debug\net8.0\Ejercicio #3 LinQ.AssemblyInfo.cs
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\obj\Debug\net8.0\Ejercicio #3 LinQ.csproj.CoreCompileInputs.cache
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\obj\Debug\net8.0\Ejercicio #3 LinQ.dll
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\obj\Debug\net8.0\refint\Ejercicio #3 LinQ.dll
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\obj\Debug\net8.0\Ejercicio #3 LinQ.pdb
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\obj\Debug\net8.0\Ejercicio #3 LinQ.genruntimeconfig.cache
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Ejercicio #3 LinQ\Ejercicio #3 LinQ\obj\Debug\net8.0\ref\Ejercicio #3 LinQ.dll
